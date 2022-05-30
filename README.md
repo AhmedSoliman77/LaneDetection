@@ -1,3 +1,3 @@
 # LaneDetection
 
-To run this code, add the video "project video.mp4" to the code folder
+to run this code,you should download 'project_video' file and save to the project directory, then run code.
